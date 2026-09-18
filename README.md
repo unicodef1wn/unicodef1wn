@@ -15,6 +15,7 @@
 
 ### Open source
 
+- [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) — what I pulled out of the xAI Grok Bot team's 72-hour live build: a drop-in `AGENTS.md`, nine role playbooks, 69 bot roles, a 24-page guide, and a log of forty things that broke on air.
 - [russian-writing-skills](https://github.com/unicodef1wn/russian-writing-skills) — three Claude skills for Russian text, one layer each: `editor-ru` (structure), `humanizer-ru` (AI fingerprint), `proofreader-ru` (mechanics). Chain them or run one.
 - [humanizer-russian-language](https://github.com/unicodef1wn/humanizer-russian-language) — standalone `humanizer-ru`, packaged as a `.skill` for claude.ai.
 
@@ -29,7 +30,3 @@ Vibecoding, AI agents, Claude Code and the tooling around them.
 
 - 🏆 **Opinion** grant — $2,000
 - 🥈 **Solana Graveyard Hackathon** — 2nd place
-
----
-
-<p align="center"><sub>Python · TypeScript · Claude Code · Solana</sub></p>
