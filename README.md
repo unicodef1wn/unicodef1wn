@@ -12,17 +12,17 @@
 
 ---
 
-### О себе
+### About
 
-Делаю проекты с ИИ и автоматизирую бизнес-процессы. Пишу о вайбкодинге и AI-инструментах для русскоязычных — без слопа, на своём опыте.
+I build projects with AI and automate business processes. I write about vibecoding and AI tools for a Russian-speaking audience — no slop, first-hand experience only.
 
-- ИИ-агенты под задачи
-- Автоматизация контента и процессов
-- Софт, дашборды, кастомные интеграции на заказ
+- AI agents built for specific tasks
+- Content and process automation
+- Custom software, dashboards and integrations on request
 
-### Достижения
+### Achievements
 
-- 🏆 Грант от **Opinion** — $2,000
-- 🥈 **Solana Graveyard Hackathon** — 2-е место
+- 🏆 **Opinion** grant — $2,000
+- 🥈 **Solana Graveyard Hackathon** — 2nd place
 
 ---
