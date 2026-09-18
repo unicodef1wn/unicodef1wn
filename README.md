@@ -1,7 +1,7 @@
 <h1 align="center">Unicode</h1>
 
 <p align="center">
-  Вайбкодинг · AI-автоматизация · ИИ-агенты
+  Vibecoding · AI-automation · AI-agents
 </p>
 
 <p align="center">
