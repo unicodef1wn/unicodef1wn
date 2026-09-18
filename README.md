@@ -1,28 +1,35 @@
 <h1 align="center">Unicode</h1>
 
 <p align="center">
-  Vibecoding · AI-automation · AI-agents
+  I build AI agents, automate workflows, and write about doing it —<br/>
+  from first-hand use, no slop.
 </p>
 
 <p align="center">
-  <a href="https://t.me/unicodeunicode">
-    <img src="https://img.shields.io/badge/Telegram-@unicodeunicode-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <a href="https://t.me/unicodef1wn"><img src="https://img.shields.io/badge/Telegram-EN-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram EN"/></a>
+  <a href="https://t.me/unicodeunicode"><img src="https://img.shields.io/badge/Telegram-RU-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU"/></a>
+  <a href="https://x.com/unicodef1wn"><img src="https://img.shields.io/badge/X-@unicodef1wn-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
-### About
+### Open source
 
-I build projects with AI and automate business processes. I write about vibecoding and AI tools for a Russian-speaking audience — no slop, first-hand experience only.
+- [russian-writing-skills](https://github.com/unicodef1wn/russian-writing-skills) — three Claude skills for Russian text, one layer each: `editor-ru` (structure), `humanizer-ru` (AI fingerprint), `proofreader-ru` (mechanics). Chain them or run one.
+- [humanizer-russian-language](https://github.com/unicodef1wn/humanizer-russian-language) — standalone `humanizer-ru`, packaged as a `.skill` for claude.ai.
 
-- AI agents built for specific tasks
-- Content and process automation
-- Custom software, dashboards and integrations on request
+### Writing
 
-### Achievements
+Vibecoding, AI agents, Claude Code and the tooling around them.
+
+- 🇬🇧 [t.me/unicodef1wn](https://t.me/unicodef1wn) · [x.com/unicodef1wn](https://x.com/unicodef1wn)
+- 🇷🇺 [t.me/unicodeunicode](https://t.me/unicodeunicode)
+
+### Highlights
 
 - 🏆 **Opinion** grant — $2,000
 - 🥈 **Solana Graveyard Hackathon** — 2nd place
 
 ---
+
+<p align="center"><sub>Python · TypeScript · Claude Code · Solana</sub></p>
